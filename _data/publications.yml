@@ -1,17 +1,23 @@
 main:
 
-  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  #   conference_short: MICCAI
-  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   code: https://github.com/MrGiovanni/ContinualLearning
-  #   bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/teaser_example_2.png
-  #   notes: Early Accept
+  - title: "DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor"
+    authors: <strong>Juncheng Wu*</strong>, Zhangkai Ni, Hanli Wang, Wenhan Yang, Yuyin Zhou, Shiqi Wang
+    conference_short: preprint
+    conference: ArXiv preprint, 2024.
+    pdf: https://arxiv.org/pdf/2406.08377
+    image: ./assets/img/DDR.png
+
+  - title: "MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine"
+    authors: Yunfei Xie*, Ce Zhou*, Lang Gao*, <strong>Juncheng Wu*</strong>, Xianhang Li, Hong-Yu Zhou, Sheng Liu, Lei Xing, James Zou, Cihang Xie, Yuyin Zhou
+    conference_short: preprint
+    conference: ArXiv preprint, 2024.
+    pdf: https://arxiv.org/pdf/2408.02900
+    code: https://github.com/UCSC-VLAA/MedTrinity-25M
+    page: https://yunfeixie233.github.io/MedTrinity-25M/
+    image: ./assets/img/MedTrinity.png
 
   - title: "Misalignment-Robust Frequency Distribution Loss for Image Transformation"
-    authors: Zhangkai Ni, <strong>Juncheng Wu</strong>, Zian Wang, Wenhan Yang, Hanli Wang, Lin Ma
+    authors: Zhangkai Ni, <strong>Juncheng Wu*</strong>, Zian Wang*, Wenhan Yang, Hanli Wang, Lin Ma
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Ni_Misalignment-Robust_Frequency_Distribution_Loss_for_Image_Transformation_CVPR_2024_paper.pdf

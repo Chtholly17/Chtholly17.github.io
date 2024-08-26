@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at [VLAA Lab](https://ucsc-vlaa.github.io/) in [University of California, Santa Cruz](https://www.ucsc.edu/). I am fortunate to work with Prof. [Yunyin Zhou](https://yuyinzhou.github.io/) and [Cihang Xie](https://cihangxie.github.io/). I received bachelor degree in [Tongji University](https://en.tongji.edu.cn/), where I am fortunate to be advised by Prof. [Zhangkai Ni](https://eezkni.github.io/). 
+
+My research interest lies in **computer Vision and deep Learning**.  I currently focus on building large-scale foundation model for biomedicine and single cell multi-omic data.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** multimodal large models, Low-level vision
+- **Deep Learning:** self-supervised learning.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2024]** We release [MedTrinity-25M](https://yunfeixie233.github.io/MedTrinity-25M/), a large-scale multimodal dataset for medicine, covering over 25 million images across 10 modalities, with multigranular annotations.
+- **[Jun. 2024]** Obtained the honor of Outstanding Graduate of Tongji University.
+- **[Feb. 2024]** Our paper about misalignment robust loss function is accepted to CVPR 2024.
 
 {% include_relative _includes/publications.md %}
 

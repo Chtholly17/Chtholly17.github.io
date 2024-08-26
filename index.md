@@ -6,12 +6,12 @@ layout: homepage
 
 I am a Ph.D. student at [VLAA Lab](https://ucsc-vlaa.github.io/) in [University of California, Santa Cruz](https://www.ucsc.edu/). I am fortunate to work with Prof. [Yunyin Zhou](https://yuyinzhou.github.io/) and [Cihang Xie](https://cihangxie.github.io/). I received bachelor degree in [Tongji University](https://en.tongji.edu.cn/), where I am fortunate to be advised by Prof. [Zhangkai Ni](https://eezkni.github.io/). 
 
-My research interest lies in **computer Vision and deep Learning**.  I currently focus on building large-scale foundation model for biomedicine and single cell multi-omic data.
+My research interest lies in **Computer Vision and Deep Learning**.  I currently focus on building large-scale foundation model for biomedicine and single cell multi-omic data.
 
 ## Research Interests
 
-- **Computer Vision:** multimodal large models, Low-level vision
-- **Deep Learning:** self-supervised learning.
+- **Computer Vision:** Multimodal Large Models, Low-level Vision
+- **Deep Learning:** Self-supervised Learning.
 
 ## News
 

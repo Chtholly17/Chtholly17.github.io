@@ -2,10 +2,18 @@ main:
 
   - title: "DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor"
     authors: <strong>Juncheng Wu</strong>, Zhangkai Ni, Hanli Wang, Wenhan Yang, Yuyin Zhou, Shiqi Wang
-    conference_short: preprint
-    conference: ArXiv preprint, 2024.
+    conference_short: Neurips
+    conference: Annual Conference on Neural Information Processing Systems <strong>(Neurips)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2406.08377
     image: ./assets/img/DDR.png
+  
+  - title: "A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?"
+    authors: Yunfei Xie*, <strong>Juncheng Wu*</strong>, Haoqin Tu*, Siwei Yang*, Bingchen Zhao, Yongshuo Zong, Qiao Jin, Cihang Xie, Yuyin Zhou
+    conference_short: preprint
+    conference: ArXiv preprint, 2024.
+    pdf: https://arxiv.org/abs/2409.15277
+    page: https://ucsc-vlaa.github.io/o1_medicine/
+    image: ./assets/img/o1_eval.png
 
   - title: "MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine"
     authors: Yunfei Xie*, Ce Zhou*, Lang Gao*, <strong>Juncheng Wu*</strong>, Xianhang Li, Hong-Yu Zhou, Sheng Liu, Lei Xing, James Zou, Cihang Xie, Yuyin Zhou

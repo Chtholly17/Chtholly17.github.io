@@ -24,6 +24,13 @@ main:
     page: https://yunfeixie233.github.io/MedTrinity-25M/
     image: ./assets/img/MedTrinity.png
 
+  - title: "Restorer: Removing Multi-Degradation with All-Axis Attention and Prompt Guidance"
+    authors: Jiawei Mao, Juncheng Wu, Yuyin Zhou, Xuesong Yin, Yuanqi Chang
+    conference_short: preprint
+    conference: ArXiv preprint, 2024.
+    pdf: https://arxiv.org/abs/2406.12587
+    image: ./assets/img/restorer.png
+
   - title: "Misalignment-Robust Frequency Distribution Loss for Image Transformation"
     authors: Zhangkai Ni, <strong>Juncheng Wu*</strong>, Zian Wang*, Wenhan Yang, Hanli Wang, Lin Ma
     conference_short: CVPR

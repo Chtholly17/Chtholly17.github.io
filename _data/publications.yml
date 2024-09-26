@@ -5,6 +5,7 @@ main:
     conference_short: Neurips
     conference: Annual Conference on Neural Information Processing Systems <strong>(Neurips)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2406.08377
+    code: https://github.com/eezkni/DDR
     image: ./assets/img/DDR.png
   
   - title: "A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?"

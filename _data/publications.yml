@@ -26,7 +26,7 @@ main:
     image: ./assets/img/MedTrinity.png
 
   - title: "Restorer: Removing Multi-Degradation with All-Axis Attention and Prompt Guidance"
-    authors: Jiawei Mao, Juncheng Wu, Yuyin Zhou, Xuesong Yin, Yuanqi Chang
+    authors: Jiawei Mao, <strong>Juncheng Wu</strong>, Yuyin Zhou, Xuesong Yin, Yuanqi Chang
     conference_short: preprint
     conference: ArXiv preprint, 2024.
     pdf: https://arxiv.org/abs/2406.12587

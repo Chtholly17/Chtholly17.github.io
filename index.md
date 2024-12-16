@@ -4,15 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at [VLAA Lab](https://ucsc-vlaa.github.io/) in [University of California, Santa Cruz](https://www.ucsc.edu/). I am fortunate to work with Prof. [Yunyin Zhou](https://yuyinzhou.github.io/) and [Cihang Xie](https://cihangxie.github.io/). I received bachelor degree in [Tongji University](https://en.tongji.edu.cn/), where I am fortunate to be advised by Prof. [Zhangkai Ni](https://eezkni.github.io/). 
+I am a Ph.D. student at [VLAA Lab](https://ucsc-vlaa.github.io/) in [University of California, Santa Cruz](https://www.ucsc.edu/). I am fortunate to work with Prof. [Yuyin Zhou](https://yuyinzhou.github.io/) and [Cihang Xie](https://cihangxie.github.io/). I received bachelor degree in [Tongji University](https://en.tongji.edu.cn/), where I am fortunate to be advised by Prof. [Zhangkai Ni](https://eezkni.github.io/). 
 
-My research interest lies in **Self-supervised Learning**.  I currently focus on building large-scale foundation model for biomedicine and single cell multi-omic data. 
+My research interest lies in **Multi-modal Foundation Models**.  I currently focus on building large-scale foundation model for biomedicine and single cell multi-omic data. 
 
 **I am looking for potential intern positions in the summer of 2025. If you are interested in my research, please feel free to contact me.**
 
 ## Research Interests
 
-- **Computer Vision:** Multimodal Large Models, Low-level Vision
+- **Computer Vision:** Multimodal Large Models.
 - **Deep Learning:** Self-supervised Learning.
 
 ## News

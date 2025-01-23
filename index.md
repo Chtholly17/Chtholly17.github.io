@@ -17,6 +17,7 @@ My research interest lies in **Multi-modal Foundation Models**.  I currently foc
 
 ## News
 
+- **[Jan. 2025]** One paper is accepted to ICLR 2025.
 - **[Sep. 2024]** One paper is accepted to NeurIPS 2024.
 - **[Sep. 2024]** We comprehensively benchmarked openai o1-preview on multiple medical tasks, and provide a detailed analysis of its performance. [Project Page](https://ucsc-vlaa.github.io/o1_medicine/)
 - **[Aug. 2024]** We release [MedTrinity-25M](https://yunfeixie233.github.io/MedTrinity-25M/), a large-scale multimodal dataset for medicine, covering over 25 million images across 10 modalities, with multigranular annotations.

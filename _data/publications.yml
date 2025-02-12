@@ -18,7 +18,7 @@ main:
 
   - title: "MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine"
     authors: Yunfei Xie*, Ce Zhou*, Lang Gao*, <strong>Juncheng Wu*</strong>, Xianhang Li, Hong-Yu Zhou, Sheng Liu, Lei Xing, James Zou, Cihang Xie, Yuyin Zhou
-    conference_short: preprint
+    conference_short: ICLR
     conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2408.02900
     code: https://github.com/UCSC-VLAA/MedTrinity-25M

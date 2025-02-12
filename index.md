@@ -17,6 +17,7 @@ My research interest lies in **Multi-modal Foundation Models**.  I currently foc
 
 ## News
 
+- **[Feb. 2025]** We release [EpiFoundation](https://github.com/UCSC-VLAA/EpiFoundation), a foundation model for scATAC-seq based on aligning peak-to-gene correlations.
 - **[Jan. 2025]** One paper is accepted to ICLR 2025.
 - **[Sep. 2024]** One paper is accepted to NeurIPS 2024.
 - **[Sep. 2024]** We comprehensively benchmarked openai o1-preview on multiple medical tasks, and provide a detailed analysis of its performance. [Project Page](https://ucsc-vlaa.github.io/o1_medicine/)

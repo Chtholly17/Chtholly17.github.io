@@ -1,4 +1,11 @@
 main:
+  - title: "EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alignment"
+    authors: <strong>Juncheng Wu</strong>, Changxin Wan, Zhicheng Ji, Yuyin Zhou, Wenpin Hou
+    conference_short: preprint
+    conference: ArXiv preprint, 2025.
+    pdf: https://www.biorxiv.org/content/10.1101/2025.02.05.636688v1.full.pdf
+    code: https://github.com/UCSC-VLAA/EpiFoundation
+    image: ./assets/img/EpiFoundation.png
 
   - title: "DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor"
     authors: <strong>Juncheng Wu</strong>, Zhangkai Ni, Hanli Wang, Wenhan Yang, Yuyin Zhou, Shiqi Wang
